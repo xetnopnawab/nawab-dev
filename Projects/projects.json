@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Strimingly",
+    "desc": "Strimingly is video content platform.",
+    "image": "notystackandroid",
+    "category": "Mern",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/xetnopnawab/strimingly"
+    }
+  },
+  {
+    "name": "Martiny",
+    "desc": "Simple landing page website built using HTML, CSS, JavaScript and some JavaScript Libraries.",
+    "image": "martiny`",
+    "category": "modernweb",
+    "links": {
+      "view": "https://xetnopnawab.github.io/martinis-master/",
+      "code": "https://github.com/xetnopnawab/martinis-master"
+    }
+  }
+]
