@@ -1,12 +1,22 @@
 [
   {
     "name": "Strimingly",
-    "desc": "Strimingly is video content platform.",
+    "desc": "Strimingly is a feature-rich video streaming platform built with Node.js, Express, and MongoDB.",
     "image": "notystackandroid",
     "category": "Mern",
     "links": {
       "view": "#",
       "code": "https://github.com/xetnopnawab/strimingly"
+    }
+  },
+  {
+    "name": "Eventify",
+    "desc": "Eventify a cutting-edge event ticketing app with Node.js, microservices, NATS for real-time streaming, and React.js for a seamless user experience.",
+    "image": "notystackandroid",
+    "category": "Mern",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/xetnopnawab/Eventify"
     }
   },
   {
